@@ -41,7 +41,7 @@ html {
     grid-area: videos-sugeridos;
 }
 
-.videos-sugeridos .video {
+.videos-sugeridos .videos {
     display: flex;
     gap: 5px;
     margin-bottom: 15px;
